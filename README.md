@@ -6,4 +6,4 @@ Proyecto, Espacio de Trabajo y Versiones (Commit); Arboles y Ramas de un proyect
 
 ### License
 
-El ejercicio P2P Obligatorio es un software bajo la licencia [Copyright license](https://github.com/rody7val/laravel/blob/master/LICENSE.md)
+El ejercicio P2P Obligatorio es un software bajo la licencia [Copyright license](https://github.com/rody7val/random/blob/master/LICENSE.md)
